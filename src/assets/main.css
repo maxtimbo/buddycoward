@@ -21,6 +21,10 @@ a,
   }
 }
 
+ul {
+    list-style-type: none;
+}
+
 @media (min-width: 1024px) {
   body {
     display: flex;
