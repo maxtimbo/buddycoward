@@ -1,8 +1,6 @@
 <template>
-  <main>
-    <IntoSplash />
-    <MediaLinks />
-  </main>
+  <IntoSplash />
+  <MediaLinks />
 </template>
 
 <script setup lang="ts">
