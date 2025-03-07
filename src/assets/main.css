@@ -7,6 +7,7 @@
   margin: 0 auto;
   padding: 2rem;
   font-weight: normal;
+  align-items: center;
 }
 
 a,
@@ -35,11 +36,68 @@ ul {
 .logo {
   width: 50%;
 }
+.paralax {
+    display: flex;
+    flex-direction: column;
+    align-items: top;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: -1;
+    width: 100%;
+    height: 100vh;
+    overflow: hidden;
+
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+
 .banner-wrap {
   display: flex;
   flex-direction: column;
-  position: relative;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
   flex-grow: 1;
+}
+
+.body-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: relative;
+    z-index: 1;
+    background: var(--color-background);
+    min-height: 100vh;
+    margin-top: 100vh;
+}
+
+.markdown-body {
+    display: flex;
+    flex-direction: column;
+}
+.markdown-body h1 {
+    font-size: 1.5em;
+}
+.markdown-body h2 {
+    font-size: 1.2em;
+}
+
+blockquote {
+    border-left: 5px solid #ccc;
+    margin: 1.5em;
+    padding: 0.5em;
+}
+
+p {
+    margin-bottom: 1.2em;
+}
+
+hr {
+    margin-top: 1.2em;
+    margin-bottom: 1.2em;
 }
 
 .banner {
