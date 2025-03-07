@@ -1,0 +1,1 @@
+If you're interested and motivated enough, you may also want to get a bumper sticker made or put up some yard signs. Thanks to u/Fortuna_Ex_Machina for creating these images. You can find the download links below and use them to create on any signage website. I found [Build A Sign](https://www.buildasign.com), but you may know of a better company.
