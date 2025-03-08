@@ -5,6 +5,7 @@
       <li><a href="/bumper-sticker_noai.png" download>the bumper sticker</a></li>
       <li><a target="_blank" href="https://github.com/maxtimbo/buddycoward" rel="noopener
           noreferrer">repo for this site</a></li>
+      <li><a href="mailto:info@buddycoward.org">email us with comments and suggestions</a></li>
     </ul>
   </div>
 </template>
