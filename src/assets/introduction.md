@@ -2,5 +2,8 @@ Congressman Backdoor Buddy Coward Carter is a stain in our currect House of Repr
 <br />
 ## His office can be reached at  
 # (202) 225-5831
-<hr />
+<br />
 Call Buddy Coward's office and tell them we require a town hall meeting.
+<br />
+<hr />
+

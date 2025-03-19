@@ -1,4 +1,4 @@
-Another reason to call Buddy Coward's office comes from user u/notdonmori on [Reddit](https://www.reddit.com/r/savannah/comments/1j5pcxg/call_buddy_carter_and_tell_him_you_dont_support/):  
+Tell Buddy Coward [you don't support cutting Medicaid.](https://www.reddit.com/r/savannah/comments/1j5pcxg/call_buddy_carter_and_tell_him_you_dont_support/):  
 
 > Republicans need $850 Billion in cuts to justify their new tax bill. The largest estimate of "fraud", "waste" and "abuse" in Medicaid is about $50 Billion. Where are Republicans going to get the rest? From Medicaid services that you and I and every other normal person in Chatham County depend on.
 >  
